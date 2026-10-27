@@ -14,6 +14,14 @@
   <a href="https://ualbertaai.wordpress.com"><img src="https://img.shields.io/badge/Blog-25%2B_AI_posts-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="AI blog" /></a>
 </p>
 
+<p align="center">
+  <a href="https://rehaansharma.vercel.app">
+    <img src="https://rehaansharma.vercel.app/readme/portfolio-preview.gif" width="88%" alt="A scroll through the 3D portfolio: the avatar turns toward the cursor, the camera moves between experience stops, and the work cards stack" />
+  </a>
+  <br />
+  <sub>A scroll through my 3D portfolio. Click to try it yourself.</sub>
+</p>
+
 ---
 
 ## 👋 About me
@@ -118,6 +126,14 @@ ask_me_about: AI agents, workflow automation, data platforms
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rehaan299&show_icons=true&include_all_commits=true&bg_color=15191c&title_color=ffd9b3&text_color=f4f1ea&icon_color=6f906f&border_color=2c3a30&hide_rank=false" height="170" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehaan299&layout=compact&langs_count=8&bg_color=15191c&title_color=ffd9b3&text_color=f4f1ea&border_color=2c3a30" height="170" alt="Top languages" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehaan299/rehaan299/main/profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rehaan299/rehaan299/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/rehaan299/rehaan299/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph" />
+  </picture>
 </p>
 
 <p align="center">
